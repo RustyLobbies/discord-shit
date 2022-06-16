@@ -1,3 +1,5 @@
+@import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
+
 /* edit radial status icons from the above import */
 :root {
   --rs-small-spacing: 1px; /* Gap between avatar and status for members list/dms | MUST end in px */
